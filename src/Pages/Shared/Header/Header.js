@@ -10,7 +10,7 @@ const Header = () => {
         <div >
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="header">
                 <Container>
-                    <Navbar.Brand to="/home">PatientCare</Navbar.Brand>
+                    <Navbar.Brand to="/home">MediCare</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
 

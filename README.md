@@ -1,4 +1,4 @@
-# Welcome to PatientCare online service
+# Welcome to Medicare online service
 
 ## Available doctor on live support and our PatientCare house.
 ## 24 hrs service activated
