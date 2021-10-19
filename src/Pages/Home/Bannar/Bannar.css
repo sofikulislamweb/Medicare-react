@@ -1,0 +1,16 @@
+.bannar{
+background-image: url('https://cdn.pixabay.com/photo/2016/11/14/03/05/surgery-1822458_1280.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position:center;
+background-blend-mode: multiply;
+background-color: rgb(122, 115, 113);
+
+}
+.headding{
+    text-align: left;
+    color:white;
+    font-family: none;
+    font-weight: bold;
+
+}
